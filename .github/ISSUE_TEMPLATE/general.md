@@ -1,4 +1,6 @@
 ---
+name: scratch issue
+about: a scratch issue to add to the scratch project.
 title: [test]
 labels:
 - bug
